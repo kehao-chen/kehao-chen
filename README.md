@@ -1,8 +1,8 @@
 ## Hi, I'm Kehao 👋
 
-> I'm just a guy who's a cloud native ninja — for fun.
-
 INTJ-O-H. Self-certified, thoroughly average **1x engineer**.
+
+Motto, provisionally:
 
 > Anxiety is just compute starvation.
 
@@ -54,9 +54,9 @@ the two I never miss.
 
 ## 正體中文
 
-> 就是一個為了好玩而當 cloud native ninja 的人。
-
 INTJ-O-H。自我認證的平庸 **1x 軟體工程師**。
+
+座右銘暫定是：
 
 > 焦慮來自於算力不足
 

@@ -93,7 +93,7 @@ INTJ-O-H。自我認證的平庸 **1x 軟體工程師**。
 ### 出沒地點
 
 台北，主要在辦公室椅子上和家裡椅子上之間平移。
-偶爾出沒在台北的技術社群 meetup 和聚會，DevOpsDays Taipei 和 JCConf 則是每年一定到。
+偶爾去技術社群的 meetup 晃晃，DevOpsDays Taipei 和 JCConf 則是每年一定到。
 
 ---
 

@@ -6,7 +6,7 @@ Motto, provisionally:
 
 > Anxiety is just compute starvation.
 
-**English** · [正體中文 ↓](#正體中文)
+**English** · [正體中文 ↓](#user-content-正體中文)
 
 ---
 
@@ -94,6 +94,8 @@ INTJ-O-H。自我認證的平庸 **1x 軟體工程師**。
 
 台北，主要在辦公室椅子上和家裡椅子上之間平移。
 偶爾去技術社群的 meetup 晃晃，DevOpsDays Taipei 和 JCConf 則是每年一定到。
+
+**正體中文** · [English ↑](#user-content-hi-im-kehao-)
 
 ---
 

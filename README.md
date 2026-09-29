@@ -107,7 +107,11 @@ INTJ-O-H。自我認證的平庸 **1x 軟體工程師**。
 | DevOps Engineer Expert | Microsoft | [verify](https://learn.microsoft.com/api/credentials/share/en-us/kehao-chen/88780FEC56298A7D?sharingId=339B6985F6579064) |
 | Azure Administrator Associate | Microsoft | [verify](https://learn.microsoft.com/api/credentials/share/en-us/kehao-chen/AA2D84683A352AC?sharingId=339B6985F6579064) |
 | Azure AI Engineer Associate | Microsoft | [verify](https://learn.microsoft.com/api/credentials/share/en-us/kehao-chen/A571699F719CAB4C?sharingId=339B6985F6579064) |
-| CKA: Certified Kubernetes Administrator | The Linux Foundation | [verify](https://www.credly.com/badges/cb96f42a-de8f-4948-b6a0-61365bdeff4e/linked_in_profile) |
+| CKA: Certified Kubernetes Administrator | The Linux Foundation | [verify](https://www.credly.com/badges/d2df9d12-06e8-4216-97f6-bb184164cdef) |
+| CKAD: Certified Kubernetes Application Developer | The Linux Foundation | [verify](https://www.credly.com/badges/07d9c8c6-57a2-47bc-8514-05ef103d5175) |
+| CKS: Certified Kubernetes Security Specialist | The Linux Foundation | [verify](https://www.credly.com/badges/e0da79fd-5973-4fb7-a009-3302ad0178eb) |
+| KCNA: Kubernetes and Cloud Native Associate | The Linux Foundation | [verify](https://www.credly.com/badges/f505f069-d4ab-4cca-a29d-075a87bfa14c) |
+| KCSA: Kubernetes and Cloud Native Security Associate | The Linux Foundation | [verify](https://www.credly.com/badges/f9f4647e-6416-40d8-bdb3-560250dd2c10) |
 
 ## Elsewhere · 在其他地方
 
